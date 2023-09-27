@@ -14,5 +14,10 @@ import java.util.Scanner;
 
 public class studentAssignmentResult
 {
+    private String firstName;
+    private String lastName;
+    private int studentID;
+    private double[] marks;
+    private double[] totalMark;
     
 }
